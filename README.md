@@ -39,6 +39,7 @@ The copper industry faces challenges with skewed and noisy data affecting pricin
 
 ## Workflow
 
+![Copper](https://github.com/asdesilva3/Industrial-Copper-Modeling/assets/148002331/3c7b52c5-a10e-4073-b7ee-b2ad9b8da28b)
 
 
 ## Data Description
